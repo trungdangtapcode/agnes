@@ -2,13 +2,13 @@
 
 
 
-!\[Agnes](1.jpg)
+<img src="1.jpg" width="400">
 
-!\[Tachyonnn 1](2.webp)
+<img src="2.webp" width="400">
 
-!\[Tachyonnn 2](3.webp)
+<img src="3.webp" width="400">
 
-!\[Image agnes](4.png)
+<img src="4.png" width="400">
 
 
 
